@@ -1,4 +1,4 @@
- public class PrimeNumbersInRange {
+ public class Assignment_1_PrimeNumbersInRange {
     public static void main(String[] args) {
         int start = 10; // Change the start of the range
         int end = 50; // Change the end of the range
